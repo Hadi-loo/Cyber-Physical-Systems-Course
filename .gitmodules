@@ -1,0 +1,6 @@
+[submodule "IOT-Entrance-Control-System"]
+	path = IOT-Entrance-Control-System
+	url = https://github.com/Hadi-loo/IOT-Entrance-Control-System.git
+[submodule "Motion-Based-Authentication"]
+	path = Motion-Based-Authentication
+	url = https://github.com/Hadi-loo/Motion-Based-Authentication.git
